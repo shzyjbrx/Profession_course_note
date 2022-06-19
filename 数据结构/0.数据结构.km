@@ -1,0 +1,122 @@
+{
+    "root": {
+        "data": {
+            "id": "cipebxfle000",
+            "created": 1647850727266,
+            "text": "数据结构"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cipec32k3z40",
+                    "created": 1647850739538,
+                    "text": "基本概念（1）"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cipecgdn22g0",
+                    "created": 1647850768507,
+                    "text": "基本数据结构（2~7）"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cipecqz5z340",
+                            "created": 1647850791576,
+                            "text": "线性结构（2~5）"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cipedrhsxx40",
+                                    "created": 1647850871067,
+                                    "text": "线性表（2）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cipeduqre3c0",
+                                    "created": 1647850878139,
+                                    "text": "栈与队列（3）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cipee0ipbig0",
+                                    "created": 1647850890712,
+                                    "text": "串（4）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cipee6azpz40",
+                                    "created": 1647850903307,
+                                    "text": "数组与广义表（5）"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cipecuvypg80",
+                            "created": 1647850800089,
+                            "text": "非线性结构（6、7）"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cipeebr71rk0",
+                                    "created": 1647850915171,
+                                    "text": "树（6）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cipeef07op40",
+                                    "created": 1647850922246,
+                                    "text": "图（7）"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ciped21kfh40",
+                    "created": 1647850815666,
+                    "text": "基本数据处理技术（8~10）"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ciped8soma80",
+                            "created": 1647850830366,
+                            "text": "查找技术"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cipeddbc6e00",
+                            "created": 1647850840201,
+                            "text": "排序技术"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
